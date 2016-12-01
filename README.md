@@ -10,3 +10,19 @@ In the model folder the steps are specified in training.R which mainly runs the 
 In analysis the analysis.R script specifies the analysis of the results and plots some results to analysis/plots/.
 
 NOTE: We used this structure over putting all scripts in one folder with one script sourcing them all, because with this structure it is easier to obtain overview over the project.
+
+## References
+Antti Arppe, Samuel Bitschau, Nathanael Schilling, Peter Hendrix,
+  Petar Milin, R. Harald Baayen and Cyrus Shaoul (2015). ndl2: Naive
+  Discriminative Learning. R package version 0.1.0.9002.  
+Keyling, T., & Jünger, J. (2013). Facepager (Version, f.e. 3.3).  
+  An application for generic data retrieval through APIs. Source  
+  code available from https://github.com/strohne/Facepager.  
+R Core Team (2016). R: A language and environment for statistical  
+  computing. R Foundation for Statistical Computing, Vienna, Austria.  
+  Retrieved from https://www.R-project.org/.  
+Antti Arppe, Samuel Bitschau, Nathanael Schilling, Peter Hendrix,  
+  Petar Milin, R. Harald Baayen and Cyrus Shaoul (2015). ndl2: Naive  
+  Discriminative Learning. R package version 0.1.0.9002.  
+
+
